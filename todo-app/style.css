@@ -1,0 +1,19 @@
+.completed  {
+    -webkit-text-decoration-line: line-through; /* Safari */
+    text-decoration-line: line-through;
+}
+
+#todoFilters li{
+    display: inline-block;
+
+}
+
+li {
+    padding-right: 10px;
+    cursor: pointer;
+    list-style: none;
+}
+
+.hide {
+    display: none;
+}
